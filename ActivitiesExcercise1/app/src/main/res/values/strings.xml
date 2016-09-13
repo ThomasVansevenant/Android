@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivitiesExcercise1</string>
+
+    <!-- button to first activity-->
+    <string name="button_first_activity">First Activity</string>
+    <!-- button to second activity-->
+    <string name="button_second_activity">Second Activity</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="action_reset_db">Reset</string>
+
+    <string name="content_authority">com.thomasvansevenant.diary</string>
+    <string name="title_activity_insert_diary">Insert Diary</string>
+
+
+    //error String
+    <string name="error_title">A title is required!</string>
+    <string name="error_context">A context is required!</string>
+
+    <string name="add_diary">Add diary</string>
+    <string name="diary_title">Diary title:</string>
+    <string name="diary_context">Diary context: </string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorScoreText">#eee4da</color>
+
+    <color name="white">#ffffff</color>
+
+    //color tiles
+    <color name="colorTile0">#cdc1b4</color>
+    <color name="colorTile2">#eee4da</color>
+    <color name="colorTile4">#ede0c8</color>
+    <color name="colorTile8">#f2b179</color>
+    <color name="colorTile16">#f59563</color>
+    <color name="colorTile32">#f67c5f</color>
+    <color name="colorTile64">#f65e3b</color>
+    <color name="colorTile128">#d4b250</color>
+    <color name="colorTile256">#d6b043</color>
+    <color name="colorTile512">#e4c02a</color>
+    <color name="colorTile1024">#e3ba14</color>
+    <color name="colorTile2048">#edc12d</color>
+    <color name="colorTile4096">#e0d7cd</color>
+    <color name="colorScoreBackground">#bbada0</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_activities">
+        <item>@string/open_web</item>
+        <item>@string/open_dialer</item>
+        <item>@string/open_google</item>
+        <item>@string/open_voice</item>
+    </string-array>
+</resources>

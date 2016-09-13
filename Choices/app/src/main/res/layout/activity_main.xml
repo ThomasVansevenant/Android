@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="50dp">
+
+
+    <ListView
+        android:id="@+id/listview_activities"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <!--<Button-->
+    <!--android:id="@+id/button_open_web"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/open_web"/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/button_open_dialer"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/open_dialer"/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/button_open_google"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/open_google"/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/button_open_voice"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/open_voice"/>-->
+
+
+</FrameLayout>

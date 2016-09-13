@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*"
+    android:layout_marginTop="100dp"
+    android:layout_marginRight="30dp"
+    android:layout_marginLeft="30dp">
+
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/button_continue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_continue" />
+
+        <Button
+            android:id="@+id/button_new_game"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_new_game" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/button_about"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_about" />
+
+        <Button
+            android:id="@+id/button_exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_exit" />
+    </TableRow>
+</TableLayout>

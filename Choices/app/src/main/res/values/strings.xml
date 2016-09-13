@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Choices</string>
+
+    <string name="open_web">Open Web</string>
+    <string name="open_dialer">Open dialer</string>
+    <string name="open_google">Open Google</string>
+    <string name="open_voice">Start voice command</string>
+    <string name="choose_another_app">Please, choose another application</string>
+    <string name="no_internet_connnection">"Connected the to internet"</string>
+    <string name="select_answer">Select answer</string>
+
+    <string name="text_recognize">Text recognized</string>
+
+    <string name="you_said">You said: </string>
+
+</resources>

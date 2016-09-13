@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello ParadoxListFragment </string>
+
+    <string name="Title">The title</string>
+    <string name="Description">The description</string>
+
+    <string name="welcome_title">What is a paradox</string>
+    <string name="welcome_description">A paradox is a statement that apparently contradicts itself and yet might be true (or wrong at the same time).
+Some logical paradoxes are known to be invalid arguments but are still valuable in promoting critical thinking.
+Some paradoxes have revealed errors in definitions assumed to be rigorous, and have caused axioms of mathematics
+and logic to be re-examined. One example is Russell\'s paradox, which questions whether a list of all lists
+        that do not contain themselves would include itself, and showed that attempts to found
+ set theory on the identification of sets with properties or predicates were flawed. Others,
+  such as Curry\'s paradox, are not yet resolved.
+
+Examples outside logic include the Ship of Theseus from philosophy (questioning whether
+a ship repaired over time by replacing each of its wooden parts would remain the same ship).
+Paradoxes can also take the form of images or other media. For example, M.C. Escher featured perspective-based
+ paradoxes in many of his drawings, with walls that are regarded as floors from other points of view, and staircases that
+ appear to climb endlessly.
+
+In common usage, the word paradox often refers to statements that are ironic or unexpected,
+ such as the paradox that standing is more tiring than walking</string>
+</resources>
